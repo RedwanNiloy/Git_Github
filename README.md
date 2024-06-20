@@ -53,6 +53,8 @@ touch .gitinore- files included here not be traced
 
 Git rm file_name -f = removed from workplace+git repo
 
+git rebase:
+
 
 
 
